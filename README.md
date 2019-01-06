@@ -1,4 +1,4 @@
-# Common tools of Amazon Web Services
+# Common Tools of Amazon Web Services
 ## AWS modules:
 * S3
 * EC2
