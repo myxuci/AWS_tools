@@ -6,4 +6,5 @@
 * SageMaker
 * Polly
 * EMail
+* Redshift
 * More on the way...
